@@ -2,7 +2,7 @@
 *.out
 *.in
 *.pyc
-
+*.ok
 
 #alla muita esimerkkejä
 
